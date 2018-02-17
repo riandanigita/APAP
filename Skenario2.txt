@@ -1,5 +1,9 @@
 Skenario 2
 
 Gita dan Aisyah
+<<<<<<< HEAD
 Semoga lulus S1 cumlaude
 Trus lanjut S2 di luar negeri dengan beasiswa aamiin
+=======
+Bismillah nilainya bagus. Aamiin...
+>>>>>>> d659b6694c121f7a35006439f8230b451d5ab53d
